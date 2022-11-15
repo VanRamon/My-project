@@ -1,0 +1,152 @@
+ *::selection {
+  color: rgb(202, 116, 10);
+ }
+
+p {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  line-height: 40px;
+  padding: 8px;
+  transition: 0.4s background;
+}
+p:hover {
+  background: rgba(0, 0, 0, 0.8)
+}
+body{
+  
+  background-color: rgba(48, 85, 117, 0.918);
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+}
+h1{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 280px;
+  height: 60px;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  transition: 0.4s background;
+}
+h1:hover {
+  background: rgba(0, 0, 0, 0.8)
+}
+button{
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.212);
+  
+}
+button:hover{
+  background: rgba(0, 0, 0, 0.8);
+
+}
+h2{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 600px;
+  height: 50px;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  transition: 0.4s background;
+}
+h2:hover {
+  background: rgba(0, 0, 0, 0.8)
+}
+.poisc{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 500px;
+  height: 90px;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  transition: 0.4s background;
+}
+.poisc:hover {
+  background: rgba(0, 0, 0, 0.8)
+}
+.bigzag{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 500px;
+  height: 90px;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  transition: 0.4s background;
+}
+.bigzag:hover {
+  background: rgba(0, 0, 0, 0.8)
+}
+.first{
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  border-radius: 10px;
+  float: right;
+  margin-top: -60px;
+}
+.tow{
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  border-radius: 10px;
+  float: right;
+  margin-top: 10px;
+}
+p{
+  text-align: left;
+  width: 1050px;
+}
+a{
+  color: rgba(3, 173, 224, 0.979);
+}
+table{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-collapse: collapse;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  transition: 0.4s background;
+}
+table:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+th, td{
+  border: 3px solid rgb(255, 255, 255);
+}
+ul{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 250px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.212);
+  transition: 0.4s background;
+}
+ul:hover {
+  background: rgba(0, 0, 0, 0.8)
+}
+.snowmens{
+  width: 420px;
+  height: 420px;
+}
+.snowmencontainer{
+  display: flex;
+  justify-content: space-around;
+}
+input{
+  color:rgb(255, 255, 255);
+  background-color: rgba(48, 85, 117, 0.918);
+  border: solid black 2px;
+}
+.litle{
+  width: 600px;
+}
